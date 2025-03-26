@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23A5257q" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="Entity1" representedClassName="Entity1" syncable="YES" codeGenerationType="class"/>
+    <entity name="Tarea" representedClassName="Tarea" syncable="YES" codeGenerationType="class">
+        <attribute name="completa" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="descripcion" optional="YES" attributeType="String"/>
+        <attribute name="fechaCreacion" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="prioridad" optional="YES" attributeType="String"/>
+        <attribute name="titulo" optional="YES" attributeType="String"/>
+    </entity>
+</model>
